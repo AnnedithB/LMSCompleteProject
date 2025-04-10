@@ -1,5 +1,7 @@
 # ALL LINKS ARE PRESENT IN THE PDF - LEAD MANAGEMENT SYSTEM PDF
 ### Github : https://github.com/AnnedithB/LMSCompleteProject
+### Frontend Github : https://github.com/AnnedithB/LeadsManagementSystem
+### Backend Github : https://github.com/AnnedithB/LeadsBackend
 ### Vercel : http://leads-management-system-tau.vercel.app/
 # 🧩 Leads Management System
 
